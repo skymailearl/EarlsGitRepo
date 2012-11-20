@@ -1,6 +1,6 @@
 public class BeerSong {
 	public static void main(String[] args) {
-		// TODO what is this?
+		// TODO what is this? I don't know what this is for
 		int beerNum = 99;
 	    String word = "bottles";
 	    while (beerNum > 0) {
